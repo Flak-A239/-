@@ -86,8 +86,6 @@ def core() :
 
 				flareUse = True
 
-				break
-
 		do = input("> ")
 		core()
 
